@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tiny Contact Form v0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-13 23:10+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jonas Thomsen <mail@jonasthomsen.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: tiny-contact-form.php:104
+#: tiny-contact-form.php:509
+#@ tcf-lang
+msgid "Name"
+msgstr "Navn"
+
+#: tiny-contact-form.php:106
+#: tiny-contact-form.php:511
+#@ tcf-lang
+msgid "Email"
+msgstr "Email"
+
+#: tiny-contact-form.php:120
+#: tiny-contact-form.php:513
+#@ tcf-lang
+msgid "Subject"
+msgstr "Emne"
+
+#: tiny-contact-form.php:122
+#: tiny-contact-form.php:515
+#@ tcf-lang
+msgid "Your Message"
+msgstr "Din Besked"
+
+#: tiny-contact-form.php:285
+#@ default
+msgid "Sorry, but you have no permissions to change settings."
+msgstr "Du har ikke rettigheder til at ændre indstillinger."
+
+#: tiny-contact-form.php:340
+#@ tcf-lang
+msgid "TO:"
+msgstr "Modtager:"
+
+#: tiny-contact-form.php:341
+#: tiny-contact-form.php:345
+#@ default
+msgid "E-mail"
+msgstr "E-mail"
+
+#: tiny-contact-form.php:344
+#@ tcf-lang
+msgid "FROM:"
+msgstr "Afsender:"
+
+#: tiny-contact-form.php:344
+#: tiny-contact-form.php:356
+#: tiny-contact-form.php:360
+#@ tcf-lang
+msgid "(optional)"
+msgstr "(valgfrit)"
+
+#: tiny-contact-form.php:348
+#@ tcf-lang
+msgid "Message OK:"
+msgstr "Succes meddelse:"
+
+#: tiny-contact-form.php:352
+#@ tcf-lang
+msgid "Message Error:"
+msgstr "Fejl medddelse:"
+
+#: tiny-contact-form.php:405
+#@ tcf-lang
+msgid "StyleSheet:"
+msgstr "StyleSheet:"
+
+#: tiny-contact-form.php:415
+#@ default
+msgid "Save Changes"
+msgstr "Gem indstillinger"
+
+#: tiny-contact-form.php:521
+#@ tcf-lang
+msgid "Check these fields:"
+msgstr "Tjek disse felter:"
+
+#: tiny-contact-form.php:406
+#@ tcf-lang
+msgid "reset"
+msgstr "nulstil"
+
+#: tiny-contact-form.php:410
+#@ tcf-lang
+msgid "Use this field or the <code>style.css</code> in your theme directory."
+msgstr "Benyt dette felt eller <code>style.css</code> i din tema mappe"
+
+#: tiny-contact-form.php:356
+#@ tcf-lang
+msgid "Submit Button:"
+msgstr "Send knap:"
+
+#: tiny-contact-form.php:385
+#@ tcf-lang
+msgid "Captcha Label:"
+msgstr "Captcha Label:"
+
+#: tiny-contact-form.php:554
+#@ default
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: tiny-contact-form.php:382
+#@ tcf-lang
+msgid "use a little mathematic spam test like \" 12 + 5 = \""
+msgstr "Brug en lille matematisk spam test fx: \" 12 + 5 = \""
+
+#: tiny-contact-form.php:174
+#@ tcf-lang
+msgid "Please fill out all fields."
+msgstr ""
+
+#: tiny-contact-form.php:177
+#@ tcf-lang
+msgid "Wrong Email."
+msgstr ""
+
+#: tiny-contact-form.php:331
+#@ cpd
+msgid "Options"
+msgstr ""
+
+#: tiny-contact-form.php:337
+#@ tcf-lang
+msgid "Form"
+msgstr ""
+
+#: tiny-contact-form.php:341
+#@ tcf-lang
+msgid "one or more (e.g. email1,email2,email3)"
+msgstr ""
+
+#: tiny-contact-form.php:360
+#@ tcf-lang
+msgid "Subject Prefix:"
+msgstr ""
+
+#: tiny-contact-form.php:364
+#@ tcf-lang
+msgid "Additional Fields:"
+msgstr ""
+
+#: tiny-contact-form.php:366
+#@ tcf-lang
+msgid "The contact form includes the fields Name, Email, Subject and Message. If you need more (e.g. Phone, Website) type in the name of the field."
+msgstr ""
+
+#: tiny-contact-form.php:369
+#@ tcf-lang
+msgid "Field"
+msgstr ""
+
+#: tiny-contact-form.php:374
+#@ tcf-lang
+msgid "After Submit"
+msgstr ""
+
+#: tiny-contact-form.php:375
+#@ tcf-lang
+msgid "hide the form"
+msgstr ""
+
+#: tiny-contact-form.php:378
+#: tiny-contact-form.php:381
+#@ tcf-lang
+msgid "Captcha"
+msgstr ""
+
+#: tiny-contact-form.php:389
+#@ tcf-lang
+msgid "Alternative Captcha:"
+msgstr ""
+
+#: tiny-contact-form.php:390
+#@ tcf-lang
+msgid "Set you own question and answer."
+msgstr ""
+
+#: tiny-contact-form.php:393
+#@ tcf-lang
+msgid "Question:"
+msgstr ""
+
+#: tiny-contact-form.php:397
+#@ tcf-lang
+msgid "Answer:"
+msgstr ""
+
+#: tiny-contact-form.php:401
+#@ tcf-lang
+msgid "Style"
+msgstr ""
+
+#: tiny-contact-form.php:431
+#@ tcf-lang
+msgid "Contact"
+msgstr ""
+
+#: tiny-contact-form.php:435
+#@ tcf-lang
+msgid "Bug? Problem? Question? Hint? Praise?"
+msgstr ""
+
+#: tiny-contact-form.php:436
+#, php-format
+#@ tcf-lang
+msgid "Write a comment on the <a href=\"%s\">plugin page</a>."
+msgstr ""
+
+#: tiny-contact-form.php:437
+#@ default
+msgid "License"
+msgstr ""
+
